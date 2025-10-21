@@ -19,16 +19,18 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,apple,figma,git,xcode,firebase" />
+  <img src="https://skillicons.dev/icons?i=swift,apple,figma,git,firebase&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=github,gitlab,postman,vscode,notion&theme=dark" />
 </p>
 
 | Area | Tools & Frameworks |
 |------|--------------------|
-| **Languages** | Swift, SwiftUI, Combine |
-| **Architecture** | MVVM-C, TCA, Clean Architecture |
-| **Databases** | CoreData, Firebase |
+| **Languages** | Swift |
+| **Architecture** | MVVM-C, TCA, Clean Architecture, MVC, MVP |
+| **Databases** | CoreData, Firebase, Swift Data |
 | **UI / UX** | SwiftUI, UIKit, Animations |
-| **Others** | REST APIs, JSON, Git, Xcode |
+| **Others** | REST APIs, JSON, Git, Xcode, 3rd Parties |
 
 ---
 
