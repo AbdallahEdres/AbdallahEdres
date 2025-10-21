@@ -51,9 +51,9 @@ A smart personal finance & productivity tool managing your **daily spending, inc
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdallahEdres&theme=tokyonight" width="48%"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahEdres&layout=compact&theme=tokyonight" width="48%"/>
-</p>
+</p> -->
 
 ---
 
