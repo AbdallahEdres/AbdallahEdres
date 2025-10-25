@@ -36,7 +36,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🪙 [BaseSwiftUI](https://github.com/AbdallahEdres/BaseSwiftUI)
+#### 🪙 [BaseSwiftUI](https://github.com/AbdallahEdres/BaseSwiftUIDemo)
 A **professional base architecture** template built with **MVVM-C**, **Clean Architecture**, and **SwiftUI** for scalable apps.
 
 #### 📱 [SwiftUIDay2Day](https://github.com/AbdallahEdres/SwiftUIDay2Day)
